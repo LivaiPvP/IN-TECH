@@ -8,8 +8,8 @@ le top deck était imminent
 
 je suis une branche
 
-<<<<<<< HEAD
+
 je suis la branche sur la branche
-=======
+
 je fais le test
->>>>>>> master
+
